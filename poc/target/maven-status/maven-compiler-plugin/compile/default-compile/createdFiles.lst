@@ -1,0 +1,6 @@
+com/poc/dao/UserDao.class
+com/poc/service/UserService.class
+com/poc/model/Users.class
+com/poc/dao/impl/UserDaoImpl.class
+com/poc/controller/UserController.class
+com/poc/service/impl/UserServiceImpl.class
